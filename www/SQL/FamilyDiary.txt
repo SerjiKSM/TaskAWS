@@ -1,0 +1,8 @@
+Walk ,2017-04-07,16:00 ;
+Prepare dinner,2017-04-03,12:15;
+Get up,2017-04-03,07:15;
+Clean bathroom,2017-04-03,11:00;
+Learn lessons,2017-04-03,16:00;
+Clean house,2017-04-06,16:00;
+English course,2017-04-06,14:00;
+German language course,2017-04-06,19:30;

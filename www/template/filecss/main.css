@@ -1,0 +1,68 @@
+
+#ref_login{
+    padding-top:45px;
+    font-size: 30px;
+}
+
+#ref_registration{
+    padding-top:45px;
+    font-size: 30px;
+}
+
+.field {
+    /*clear:both;*/
+    /*text-align:right;*/
+    /*line-height:35px;*/
+}
+
+label {
+    float:left;
+    padding-right:10px;
+
+}
+
+.submit{
+    float:left;
+    padding-top:10px;
+
+}
+
+.main{
+    float:left;
+    padding-right:10px;
+}
+
+.row{
+    padding-top:60px;
+    margin-left: 40%;
+
+}
+
+#section_title{
+    font-size: 40px;
+    text-align: center;
+}
+
+.error{
+    font-size: 20px;
+    color: red;
+}
+
+.container {
+    /*width: 600px;*/
+    /*overflow: scroll;*/
+}
+
+.ErrorException{
+    text-align: center;
+    color: red;
+}
+
+#id-save-done{
+    margin-left: 10%;
+    /*padding: 10px;*/
+}
+
+input{
+    text-align: center;
+}
